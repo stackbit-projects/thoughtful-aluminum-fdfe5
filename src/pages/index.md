@@ -13,6 +13,12 @@ sections:
       - label: Learn More
         url: /features
         style: primary
+  - section_id: lorem-ipsum
+    title: lorem-ipsum
+    subtitle: lorem-ipsum
+    background: gray
+    features: []
+    type: section_features
   - section_id: features
     type: section_features
     background: gray
